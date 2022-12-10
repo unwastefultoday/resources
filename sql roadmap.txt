@@ -1,0 +1,79 @@
+Learn SQL in 30 days for FREE with these 5 amazing resources:
+
+(be sure to bookmark this 30-Day SQL Roadmap)
+
+
+𝐖𝐞𝐞𝐤 𝟏 🗓️
+
+Work through the first 12 free interactive lessons on SQL Bolt.
+
+This will teach you
+○ SELECT
+○ WHERE
+○ JOINS
+○ Aggregate Functions
+
+Don't worry about the Update/Create/Alter table lessons - skip these!
+
+👉 https://sqlbolt.com/
+
+
+
+𝐖𝐞𝐞𝐤 𝟐 🗓️
+
+Work through the 38 short SQL tutorials on W3Schools.
+
+This will cover similar material as SQL Bolt BUUUT
+
+It's absolutely worth repeating these SQL concepts so that they'll sink into your brain!
+
+👉 https://lnkd.in/gJfvU3PV
+
+
+
+𝐖𝐞𝐞𝐤 𝟑 🗓️ (𝐏𝐚𝐫𝐭 𝟏)
+
+For the first half of the week, work through the Intermediate SQL lessons on Mode Analytics SQL tutorial.
+
+This will teach you:
+
+○ GROUP BY
+○ CASE
+○ WHERE vs. HAVING
+○ UNION
+○ SELF-JOINs
+
+👉 https://lnkd.in/gNsUPN6q
+
+
+
+𝐖𝐞𝐞𝐤 𝟑 🗓️ (𝐏𝐚𝐫𝐭 𝟐)
+
+For the second half of the week, work through Danny Ma's SQL Case Studies.
+
+These more open-ended questions will force you to combine and apply multiple SQL concepts which is a MUST for Data Analytics & Data Science jobs.
+
+👉 https://lnkd.in/dq7wmVWk
+
+
+
+𝐖𝐞𝐞𝐤 𝟒 🗓️
+
+Put your SQL knowledge to the test on DataLemur by practicing the 60+ real SQL interview questions asked by companies like Facebook & Google.
+
+Each question comes with a full solution and multiple hints, and the entire platform is FREE!
+
+👉 http://datalemur.com/
+
+
+
+What other SQL resources did y'all use to learn?
+
+
+
+===
+
+Want more #datascience and #analytics and #SQL resources?
+
+Follow me on Twitter, I post weekly threads with all the cool resources I find:
+https://lnkd.in/gN53nuxJ
